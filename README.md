@@ -6,7 +6,7 @@
 * Commit
 * Ship
 
-[Install](https://dotenvx.com/docs/install) · [Quickstart](https://dotenvx.com/docs/quickstart)
+[Install](https://dotenvx.com/docs/install) · [Quickstart](https://dotenvx.com/docs/quickstart) · [Source](https://github.com/dotenvx/dotenvx-go)
 
 ## Quickstart
 
